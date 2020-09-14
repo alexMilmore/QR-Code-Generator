@@ -6,6 +6,7 @@
 ##### To run the above code you might require to install pyqrcode module. Install using the command below : 
  ```python
  pip install pyqrcode
+ pip install python-barcode
  ```
  
  
@@ -26,6 +27,10 @@
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
 ## Project Created & Maintained By
+
+### Alex Milmore
+
+Software engineer
 
 ### Sagnik Chattopadhyaya
 
